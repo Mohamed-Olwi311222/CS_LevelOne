@@ -1,0 +1,15 @@
+C:\Users\elsae\Desktop\C# programming\mvs\rice\problem3\obj\Debug\net6.0\problem3.csproj.AssemblyReference.cache
+C:\Users\elsae\Desktop\C# programming\mvs\rice\problem3\obj\Debug\net6.0\problem3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elsae\Desktop\C# programming\mvs\rice\problem3\obj\Debug\net6.0\problem3.AssemblyInfoInputs.cache
+C:\Users\elsae\Desktop\C# programming\mvs\rice\problem3\obj\Debug\net6.0\problem3.AssemblyInfo.cs
+C:\Users\elsae\Desktop\C# programming\mvs\rice\problem3\obj\Debug\net6.0\problem3.csproj.CoreCompileInputs.cache
+C:\Users\elsae\Desktop\C# programming\mvs\rice\problem3\bin\Debug\net6.0\problem3.exe
+C:\Users\elsae\Desktop\C# programming\mvs\rice\problem3\bin\Debug\net6.0\problem3.deps.json
+C:\Users\elsae\Desktop\C# programming\mvs\rice\problem3\bin\Debug\net6.0\problem3.runtimeconfig.json
+C:\Users\elsae\Desktop\C# programming\mvs\rice\problem3\bin\Debug\net6.0\problem3.dll
+C:\Users\elsae\Desktop\C# programming\mvs\rice\problem3\bin\Debug\net6.0\problem3.pdb
+C:\Users\elsae\Desktop\C# programming\mvs\rice\problem3\obj\Debug\net6.0\problem3.dll
+C:\Users\elsae\Desktop\C# programming\mvs\rice\problem3\obj\Debug\net6.0\refint\problem3.dll
+C:\Users\elsae\Desktop\C# programming\mvs\rice\problem3\obj\Debug\net6.0\problem3.pdb
+C:\Users\elsae\Desktop\C# programming\mvs\rice\problem3\obj\Debug\net6.0\problem3.genruntimeconfig.cache
+C:\Users\elsae\Desktop\C# programming\mvs\rice\problem3\obj\Debug\net6.0\ref\problem3.dll
