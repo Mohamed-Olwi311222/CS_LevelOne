@@ -1,0 +1,15 @@
+C:\Users\elsae\Desktop\C# programming\mvs\rice\multiplication table(for loop)\bin\Debug\net6.0\multiplication table(for loop).exe
+C:\Users\elsae\Desktop\C# programming\mvs\rice\multiplication table(for loop)\bin\Debug\net6.0\multiplication table(for loop).deps.json
+C:\Users\elsae\Desktop\C# programming\mvs\rice\multiplication table(for loop)\bin\Debug\net6.0\multiplication table(for loop).runtimeconfig.json
+C:\Users\elsae\Desktop\C# programming\mvs\rice\multiplication table(for loop)\bin\Debug\net6.0\multiplication table(for loop).dll
+C:\Users\elsae\Desktop\C# programming\mvs\rice\multiplication table(for loop)\bin\Debug\net6.0\multiplication table(for loop).pdb
+C:\Users\elsae\Desktop\C# programming\mvs\rice\multiplication table(for loop)\obj\Debug\net6.0\multiplication table(for loop).csproj.AssemblyReference.cache
+C:\Users\elsae\Desktop\C# programming\mvs\rice\multiplication table(for loop)\obj\Debug\net6.0\multiplication table(for loop).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elsae\Desktop\C# programming\mvs\rice\multiplication table(for loop)\obj\Debug\net6.0\multiplication table(for loop).AssemblyInfoInputs.cache
+C:\Users\elsae\Desktop\C# programming\mvs\rice\multiplication table(for loop)\obj\Debug\net6.0\multiplication table(for loop).AssemblyInfo.cs
+C:\Users\elsae\Desktop\C# programming\mvs\rice\multiplication table(for loop)\obj\Debug\net6.0\multiplication table(for loop).csproj.CoreCompileInputs.cache
+C:\Users\elsae\Desktop\C# programming\mvs\rice\multiplication table(for loop)\obj\Debug\net6.0\multiplication table(for loop).dll
+C:\Users\elsae\Desktop\C# programming\mvs\rice\multiplication table(for loop)\obj\Debug\net6.0\refint\multiplication table(for loop).dll
+C:\Users\elsae\Desktop\C# programming\mvs\rice\multiplication table(for loop)\obj\Debug\net6.0\multiplication table(for loop).pdb
+C:\Users\elsae\Desktop\C# programming\mvs\rice\multiplication table(for loop)\obj\Debug\net6.0\multiplication table(for loop).genruntimeconfig.cache
+C:\Users\elsae\Desktop\C# programming\mvs\rice\multiplication table(for loop)\obj\Debug\net6.0\ref\multiplication table(for loop).dll
