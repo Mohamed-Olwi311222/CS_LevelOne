@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "problem 4(while loop)/1.0.0": {
+        "runtime": {
+          "problem 4(while loop).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "problem 4(while loop)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
