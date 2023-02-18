@@ -1,0 +1,15 @@
+C:\Users\elsae\Desktop\C# programming\mvs\rice\bitwise\bin\Debug\net6.0\bitwise.exe
+C:\Users\elsae\Desktop\C# programming\mvs\rice\bitwise\bin\Debug\net6.0\bitwise.deps.json
+C:\Users\elsae\Desktop\C# programming\mvs\rice\bitwise\bin\Debug\net6.0\bitwise.runtimeconfig.json
+C:\Users\elsae\Desktop\C# programming\mvs\rice\bitwise\bin\Debug\net6.0\bitwise.dll
+C:\Users\elsae\Desktop\C# programming\mvs\rice\bitwise\bin\Debug\net6.0\bitwise.pdb
+C:\Users\elsae\Desktop\C# programming\mvs\rice\bitwise\obj\Debug\net6.0\bitwise.csproj.AssemblyReference.cache
+C:\Users\elsae\Desktop\C# programming\mvs\rice\bitwise\obj\Debug\net6.0\bitwise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elsae\Desktop\C# programming\mvs\rice\bitwise\obj\Debug\net6.0\bitwise.AssemblyInfoInputs.cache
+C:\Users\elsae\Desktop\C# programming\mvs\rice\bitwise\obj\Debug\net6.0\bitwise.AssemblyInfo.cs
+C:\Users\elsae\Desktop\C# programming\mvs\rice\bitwise\obj\Debug\net6.0\bitwise.csproj.CoreCompileInputs.cache
+C:\Users\elsae\Desktop\C# programming\mvs\rice\bitwise\obj\Debug\net6.0\bitwise.dll
+C:\Users\elsae\Desktop\C# programming\mvs\rice\bitwise\obj\Debug\net6.0\refint\bitwise.dll
+C:\Users\elsae\Desktop\C# programming\mvs\rice\bitwise\obj\Debug\net6.0\bitwise.pdb
+C:\Users\elsae\Desktop\C# programming\mvs\rice\bitwise\obj\Debug\net6.0\bitwise.genruntimeconfig.cache
+C:\Users\elsae\Desktop\C# programming\mvs\rice\bitwise\obj\Debug\net6.0\ref\bitwise.dll

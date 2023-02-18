@@ -1,0 +1,15 @@
+C:\Users\elsae\Desktop\C# programming\mvs\rice\bulb problem (if)\bin\Debug\net6.0\bulb problem (if).exe
+C:\Users\elsae\Desktop\C# programming\mvs\rice\bulb problem (if)\bin\Debug\net6.0\bulb problem (if).deps.json
+C:\Users\elsae\Desktop\C# programming\mvs\rice\bulb problem (if)\bin\Debug\net6.0\bulb problem (if).runtimeconfig.json
+C:\Users\elsae\Desktop\C# programming\mvs\rice\bulb problem (if)\bin\Debug\net6.0\bulb problem (if).dll
+C:\Users\elsae\Desktop\C# programming\mvs\rice\bulb problem (if)\bin\Debug\net6.0\bulb problem (if).pdb
+C:\Users\elsae\Desktop\C# programming\mvs\rice\bulb problem (if)\obj\Debug\net6.0\bulb problem (if).csproj.AssemblyReference.cache
+C:\Users\elsae\Desktop\C# programming\mvs\rice\bulb problem (if)\obj\Debug\net6.0\bulb problem (if).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elsae\Desktop\C# programming\mvs\rice\bulb problem (if)\obj\Debug\net6.0\bulb problem (if).AssemblyInfoInputs.cache
+C:\Users\elsae\Desktop\C# programming\mvs\rice\bulb problem (if)\obj\Debug\net6.0\bulb problem (if).AssemblyInfo.cs
+C:\Users\elsae\Desktop\C# programming\mvs\rice\bulb problem (if)\obj\Debug\net6.0\bulb problem (if).csproj.CoreCompileInputs.cache
+C:\Users\elsae\Desktop\C# programming\mvs\rice\bulb problem (if)\obj\Debug\net6.0\bulb problem (if).dll
+C:\Users\elsae\Desktop\C# programming\mvs\rice\bulb problem (if)\obj\Debug\net6.0\refint\bulb problem (if).dll
+C:\Users\elsae\Desktop\C# programming\mvs\rice\bulb problem (if)\obj\Debug\net6.0\bulb problem (if).pdb
+C:\Users\elsae\Desktop\C# programming\mvs\rice\bulb problem (if)\obj\Debug\net6.0\bulb problem (if).genruntimeconfig.cache
+C:\Users\elsae\Desktop\C# programming\mvs\rice\bulb problem (if)\obj\Debug\net6.0\ref\bulb problem (if).dll

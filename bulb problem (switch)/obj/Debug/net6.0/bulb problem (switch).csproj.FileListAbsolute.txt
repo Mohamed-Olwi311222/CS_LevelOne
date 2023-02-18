@@ -1,0 +1,15 @@
+C:\Users\elsae\Desktop\C# programming\mvs\rice\bulb problem (switch)\obj\Debug\net6.0\bulb problem (switch).csproj.AssemblyReference.cache
+C:\Users\elsae\Desktop\C# programming\mvs\rice\bulb problem (switch)\obj\Debug\net6.0\bulb problem (switch).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elsae\Desktop\C# programming\mvs\rice\bulb problem (switch)\obj\Debug\net6.0\bulb problem (switch).AssemblyInfoInputs.cache
+C:\Users\elsae\Desktop\C# programming\mvs\rice\bulb problem (switch)\obj\Debug\net6.0\bulb problem (switch).AssemblyInfo.cs
+C:\Users\elsae\Desktop\C# programming\mvs\rice\bulb problem (switch)\obj\Debug\net6.0\bulb problem (switch).csproj.CoreCompileInputs.cache
+C:\Users\elsae\Desktop\C# programming\mvs\rice\bulb problem (switch)\bin\Debug\net6.0\bulb problem (switch).exe
+C:\Users\elsae\Desktop\C# programming\mvs\rice\bulb problem (switch)\bin\Debug\net6.0\bulb problem (switch).deps.json
+C:\Users\elsae\Desktop\C# programming\mvs\rice\bulb problem (switch)\bin\Debug\net6.0\bulb problem (switch).runtimeconfig.json
+C:\Users\elsae\Desktop\C# programming\mvs\rice\bulb problem (switch)\bin\Debug\net6.0\bulb problem (switch).dll
+C:\Users\elsae\Desktop\C# programming\mvs\rice\bulb problem (switch)\bin\Debug\net6.0\bulb problem (switch).pdb
+C:\Users\elsae\Desktop\C# programming\mvs\rice\bulb problem (switch)\obj\Debug\net6.0\bulb problem (switch).dll
+C:\Users\elsae\Desktop\C# programming\mvs\rice\bulb problem (switch)\obj\Debug\net6.0\refint\bulb problem (switch).dll
+C:\Users\elsae\Desktop\C# programming\mvs\rice\bulb problem (switch)\obj\Debug\net6.0\bulb problem (switch).pdb
+C:\Users\elsae\Desktop\C# programming\mvs\rice\bulb problem (switch)\obj\Debug\net6.0\bulb problem (switch).genruntimeconfig.cache
+C:\Users\elsae\Desktop\C# programming\mvs\rice\bulb problem (switch)\obj\Debug\net6.0\ref\bulb problem (switch).dll
