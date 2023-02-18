@@ -1,0 +1,15 @@
+C:\Users\elsae\Desktop\C# programming\mvs\rice\problem 1(do while loop)\bin\Debug\net6.0\problem 1(do while loop).exe
+C:\Users\elsae\Desktop\C# programming\mvs\rice\problem 1(do while loop)\bin\Debug\net6.0\problem 1(do while loop).deps.json
+C:\Users\elsae\Desktop\C# programming\mvs\rice\problem 1(do while loop)\bin\Debug\net6.0\problem 1(do while loop).runtimeconfig.json
+C:\Users\elsae\Desktop\C# programming\mvs\rice\problem 1(do while loop)\bin\Debug\net6.0\problem 1(do while loop).dll
+C:\Users\elsae\Desktop\C# programming\mvs\rice\problem 1(do while loop)\bin\Debug\net6.0\problem 1(do while loop).pdb
+C:\Users\elsae\Desktop\C# programming\mvs\rice\problem 1(do while loop)\obj\Debug\net6.0\problem 1(do while loop).csproj.AssemblyReference.cache
+C:\Users\elsae\Desktop\C# programming\mvs\rice\problem 1(do while loop)\obj\Debug\net6.0\problem 1(do while loop).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elsae\Desktop\C# programming\mvs\rice\problem 1(do while loop)\obj\Debug\net6.0\problem 1(do while loop).AssemblyInfoInputs.cache
+C:\Users\elsae\Desktop\C# programming\mvs\rice\problem 1(do while loop)\obj\Debug\net6.0\problem 1(do while loop).AssemblyInfo.cs
+C:\Users\elsae\Desktop\C# programming\mvs\rice\problem 1(do while loop)\obj\Debug\net6.0\problem 1(do while loop).csproj.CoreCompileInputs.cache
+C:\Users\elsae\Desktop\C# programming\mvs\rice\problem 1(do while loop)\obj\Debug\net6.0\problem 1(do while loop).dll
+C:\Users\elsae\Desktop\C# programming\mvs\rice\problem 1(do while loop)\obj\Debug\net6.0\refint\problem 1(do while loop).dll
+C:\Users\elsae\Desktop\C# programming\mvs\rice\problem 1(do while loop)\obj\Debug\net6.0\problem 1(do while loop).pdb
+C:\Users\elsae\Desktop\C# programming\mvs\rice\problem 1(do while loop)\obj\Debug\net6.0\problem 1(do while loop).genruntimeconfig.cache
+C:\Users\elsae\Desktop\C# programming\mvs\rice\problem 1(do while loop)\obj\Debug\net6.0\ref\problem 1(do while loop).dll
