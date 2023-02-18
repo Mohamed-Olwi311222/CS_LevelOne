@@ -1,0 +1,15 @@
+D:\C# programming\mvs\Perfect numbers project\bin\Debug\net6.0\Perfect numbers project.exe
+D:\C# programming\mvs\Perfect numbers project\bin\Debug\net6.0\Perfect numbers project.deps.json
+D:\C# programming\mvs\Perfect numbers project\bin\Debug\net6.0\Perfect numbers project.runtimeconfig.json
+D:\C# programming\mvs\Perfect numbers project\bin\Debug\net6.0\Perfect numbers project.dll
+D:\C# programming\mvs\Perfect numbers project\bin\Debug\net6.0\Perfect numbers project.pdb
+D:\C# programming\mvs\Perfect numbers project\obj\Debug\net6.0\Perfect numbers project.csproj.AssemblyReference.cache
+D:\C# programming\mvs\Perfect numbers project\obj\Debug\net6.0\Perfect numbers project.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# programming\mvs\Perfect numbers project\obj\Debug\net6.0\Perfect numbers project.AssemblyInfoInputs.cache
+D:\C# programming\mvs\Perfect numbers project\obj\Debug\net6.0\Perfect numbers project.AssemblyInfo.cs
+D:\C# programming\mvs\Perfect numbers project\obj\Debug\net6.0\Perfect numbers project.csproj.CoreCompileInputs.cache
+D:\C# programming\mvs\Perfect numbers project\obj\Debug\net6.0\Perfect numbers project.dll
+D:\C# programming\mvs\Perfect numbers project\obj\Debug\net6.0\refint\Perfect numbers project.dll
+D:\C# programming\mvs\Perfect numbers project\obj\Debug\net6.0\Perfect numbers project.pdb
+D:\C# programming\mvs\Perfect numbers project\obj\Debug\net6.0\Perfect numbers project.genruntimeconfig.cache
+D:\C# programming\mvs\Perfect numbers project\obj\Debug\net6.0\ref\Perfect numbers project.dll
